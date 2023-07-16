@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harris-Helin-Pan
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
     - Phone:(319)859-4473
