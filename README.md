@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-    - Phone:(319)859-4473
-    - E-mail:Helian17@uni.edu
-    - Website:http://www.harrispan.com
+    - Phone: (319)859-4473
+    - E-mail: Helian17@uni.edu
+    - Website: http://www.harrispan.com
 
 <!---
 Harris-Helin-Pan/Harris-Helin-Pan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
